@@ -32,16 +32,6 @@ You should treat this like a real-world job assignment with your instructor as t
 #### Description
 - Create a record of some event happening in the future and provide an interface to show how many days, hours, minutes, seconds are left. Let the user add tags or categories to each event. Provide settings to allow the user to decide how granular the countdowns should be. Allow the user to sort/filter the events by tags/categories or show in order of when they will come due.
 
-### Home Mortgage Calculator
-#### Description
-
-Enter basic information about a house purchase and loan info to create a breakdown of the loan for its entire life (monthly payments of principal + interest). Graphs could be shown to visualize the loan details. Perhaps even allow for different loan specs to be compared on a given house purchase to see how they compare.
-
-#### Technologies
-
-* Math algorithms for loan breakdown
-* Visualizations (graphs)
-
 ### Notes Transcriber
 #### Description
 
