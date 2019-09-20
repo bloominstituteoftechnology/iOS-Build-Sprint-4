@@ -32,6 +32,26 @@ You should treat this like a real-world job assignment with your instructor as t
 #### Description
 - Create a record of some event happening in the future and provide an interface to show how many days, hours, minutes, seconds are left. Let the user add tags or categories to each event. Provide settings to allow the user to decide how granular the countdowns should be. Allow the user to sort/filter the events by tags/categories or show in order of when they will come due.
 
+### Home Mortgage Calculator
+#### Description
+
+Enter basic information about a house purchase and loan info to create a breakdown of the loan for its entire life (monthly payments of principal + interest). Graphs could be shown to visualize the loan details. Perhaps even allow for different loan specs to be compared on a given house purchase to see how they compare.
+
+#### Technologies
+
+* Math algorithms for loan breakdown
+* Visualizations (graphs)
+
+### Notes Transcriber
+#### Description
+
+Using iOS 13’s new speech-to-text API, provide either a live audio recording, or a pre-recorded audio file and allow the app to create a transcription as text that can be exported.
+
+#### Technologies
+
+* Speech-to-text API
+* Share sheet to export text
+
 ## Deliverables
 
 Each student or student pair is responsible for building an app that fulfills the requirements of one of the ideas above in the time allotted. The app will be delivered as a completed Xcode project in a GitHub repo for review by the TLs and the instructor. The student or student pair will also produce a short presentation of their app including a demo to be shared with the cohort on the last day of the Build Sprint.
