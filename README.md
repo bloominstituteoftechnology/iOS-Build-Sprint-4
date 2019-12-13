@@ -51,10 +51,6 @@ You should treat this like a real-world job assignment with your instructor as t
 ### Description
 - Using iOS 13’s new speech-to-text API, provide either a live audio recording, or a pre-recorded audio file and allow the app to create a transcription as text that can be exported.
 
-### Photo De-Duping
-#### Description
-- Using the Hamming Distance to find the level of similarity between two images, search through a collection of images and find which ones are duplicates.
-- Hamming Distance - https://en.wikipedia.org/wiki/Hamming_distance
 
 ## Deliverables
 
