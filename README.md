@@ -51,29 +51,10 @@ You should treat this like a real-world job assignment with your instructor as t
 ### Description
 - Using iOS 13’s new speech-to-text API, provide either a live audio recording, or a pre-recorded audio file and allow the app to create a transcription as text that can be exported.
 
-## Unit 1 Ideas
-
-### Binge Watching Calculator
-#### Description
-- Figure out how many episodes of a show you need to watch in order to catch up before a new season starts
-- Track multiple shows, which episode you've watched up to, and be able to sort/filter by show or present in order of which shows have the highest priority to catch up.
-
-### Medication Tracking
-#### Description
-- Track medications and when they should be taken or administered.
-
 ### Photo De-Duping
 #### Description
 - Using the Hamming Distance to find the level of similarity between two images, search through a collection of images and find which ones are duplicates.
 - Hamming Distance - https://en.wikipedia.org/wiki/Hamming_distance
-
-### Group Lunch Coordinator
-#### Description
-- Create groups of users and suggest locations to meet for lunch. Allow group members to vote on locations and then provide notifications for users to know when to leave for lunch.
-
-### Countdown Tracker
-#### Description
-- Create a record of some event happening in the future and provide an interface to show how many days, hours, minutes, seconds are left. Let the user add tags or categories to each event. Provide settings to allow the user to decide how granular the countdowns should be. Allow the user to sort/filter the events by tags/categories or show in order of when they will come due.
 
 ## Deliverables
 
